@@ -7,7 +7,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 import model.entities.AluguelDeCarros;
-import model.entities.Veiculo;
+import model.entities.Veiculo; 
 import model.services.BrasilImpostoDeServico;
 import model.services.ServicoDeAluguel;
 
